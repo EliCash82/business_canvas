@@ -39,7 +39,109 @@
 
 ![Business Canvas Image](bizcan.jpg)
 
+  * How all pieces fit together
+  * sketching it out with post-its
+  * Never write on a canvas, use the post it notes
+  * every building block use a post-it note. -- NOW IT IS MOBILE
+  * what is the impact if I take away a variable - see relationship between pieces
+
+
 2. TOOLS
 3. PROCESS
+
+
+---
+
+Learn from a Coffee Business Model:
+
+Q: How much did the cost of home coffee consumption
+change for Swiss households over the last couple years?
+
+Less or more over the last couple of years?
+Guesses - +50%, -20%, +200%
+
+A company in Switzerland was able to get the market to
+pay 600 to 800% more over the past couple of years.
+
+NESPRESSO is the company
+
+At the heart of NESPRESSO is a technology: single portion coffee, with a machine, with pods
+You get a solid espresso out the other end at home
+
+RESULTS: After 2 decades still one of the fastest growing in the Nestle empire
+
+3 billion US dollars - one product line
+
+What are core components in their business model that made them SO successful...
+
+Once you have their machine, you have to use their pods, once you have the technology, they no longer have to reach
+
+Build the Nespresso STORES to solidify the idea of high end brand
+
+key resources:
+* patents key componant, margins not shut down, certain patents are running out, business model is never finished
+* coffee
+* brand - if you have no brand you are dead - "Expensive to create"
+
+```
+REV STREAMS: 1xmachine sales, repetitive pod sales
+COST STRUCTURE: production, B2C distribution, marketing
+
+```
+
+Why Nespresso?  Something you can learn
+Nespresso almost failed in 1987 - close to going bankrupt, same product/technology - business model didn't work
+Sold to offices through sales force of machine manufacturers.  Offices not interested, salesforce didn't want to sells mall machines.
+"Pivoted" to the new business model only because board said "We produced these machines warehouses are full"
+
+Have 9 blocks and good story...
+
+What is missing? --> NUMBERS
+
+Without numbers "Intellectual masturbation"
+
+throw in ballpark figures/numbers
+
+business model prototype
+
+```
+CSeg: entreprenuers, consumers
+Channels: App Store
+Value Prop: Business Model App
+Revenue Streams: App Sales
+
+revenue stream in app store = sales - cut in 30%
+How many customers could reach first year? 15%
+
+How much to pay? 29 dollars
+
+How much to apple -> 20%
+
+The development of the app is more expensive than what could earn.
+
+FIX IT:
+
+Now Web App
+Only sell to consultants - customers only want once, consultants are selling product on a constant basis
+channel is web
+recurring rate/subscription
+Market share 15% 9 dollars per month WAY more interesting
+
+```
+
+Several different alternatives and variables in one sitting.
+
+"prototyping is the conversation you have with your ideas"
+
+
+PROCESS:
+Come up with alternatives
+Even the best business model on paper is only a set of hypotheses and guesses
+
+Business Model Canvas - Design Thinking - Prototyping
+
+You can really test business model and test ideas before you build them.
+
+Talking with other business model writer / older / seems to be pushing biz model canvas
 
 
