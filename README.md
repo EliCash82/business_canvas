@@ -18,7 +18,10 @@
   + "The Business Model Ontology" - PHD | Write a business best-seller : "Business Model Generation"
   + Business Model Canvas | 9 Building Blocks : You want to map them out on a single canvas
     1. Customer Segments
+      * All the people/organizations creating value
 	2. Value Propositions
+	  * For each segment you have a value proposition
+	  * bundles of projects and services that create value for your customers
 	3. Channels
 	4. Customer Relationships
 	5. Revenue Streams
