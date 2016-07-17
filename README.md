@@ -27,7 +27,7 @@
 	8. Key Partnerships
 	9. Cost Structure
 
-[!Business Canvas Image]("bizcan.jpg")
+![Business Canvas Image]("bizcan.jpg")
 
 2. TOOLS
 3. PROCESS
