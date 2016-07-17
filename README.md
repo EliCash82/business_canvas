@@ -16,7 +16,7 @@
   + map them out - then ideas become clear
   + shared language for the construction and language of business models
   + "The Business Model Ontology" - PHD | Write a business best-seller : "Business Model Generation"
-  + <u>Business Model Canvas</u> | 9 Building Blocks : You want to map them out on a single canvas
+  + ***Business Model Canvas*** | 9 Building Blocks : You want to map them out on a single canvas
     1. **Customer Segments**
       * All the people/organizations creating value
 	2. **Value Propositions**
