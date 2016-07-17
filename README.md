@@ -17,18 +17,25 @@
   + shared language for the construction and language of business models
   + "The Business Model Ontology" - PHD | Write a business best-seller : "Business Model Generation"
   + Business Model Canvas | 9 Building Blocks : You want to map them out on a single canvas
-    1. Customer Segments
+    1. **Customer Segments**
       * All the people/organizations creating value
-	2. Value Propositions
+	2. **Value Propositions**
 	  * For each segment you have a value proposition
 	  * bundles of projects and services that create value for your customers
-	3. Channels
-	4. Customer Relationships
-	5. Revenue Streams
-	6. Key Resources
-	7. Key Activities
-	8. Key Partnerships
-	9. Cost Structure
+	3. **Channels**
+	  * touch points for customers where you deliver value 
+	4. **Customer Relationships**
+	  * The type of relationship you are establishing with your customers 
+	5. **Revenue Streams**
+	  * Make clear how and through which processes capturing value 
+	6. **Key Resources**
+	  * Which assets are indespinsable in your business
+	7. **Key Activities**
+	  * Which things you really need in order to perform well
+	8. **Key Partnerships**
+	  * Who can help you leverage your business
+	9. **Cost Structure**
+	  * When you understand infrastructure you should understand cost structure. 
 
 ![Business Canvas Image](bizcan.jpg)
 
