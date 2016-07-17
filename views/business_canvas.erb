@@ -1,0 +1,19 @@
+<!--
+Want to make a relatively simple color coded note sheet where you can click on the colored title and it will expand
+the segment.  Basically can work as a template.
+-->
+
+<h1><%= @title %></h1>
+
+<ul>
+  <li><%= Segments[:CSeg.to_s].upcase %></li>
+  <%#{|key, value| puts "This is the #{key} and the #{value}! "} %>
+  <li><%= Segments[:VP.to_s].upcase %></li>
+  <li><%= Segments[:Ch.to_s].upcase %></li>
+  <li><%= Segments[:CR.to_s].upcase %></li>
+  <li><%= Segments[:RS.to_s].upcase %></li>
+  <li><%= Segments[:KR.to_s].upcase %></li>
+  <li><%= Segments[:KA.to_s].upcase %></li>
+  <li><%= Segments[:KP.to_s].upcase %></li>
+  <li><%= Segments[:CStr.to_s].upcase %></li>
+</ul>
